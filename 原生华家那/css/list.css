@@ -1,0 +1,21 @@
+.main_show{width: 100%; background: #fafafc;}
+.main_show>#main{width: 1167px;height: 1600px;margin: 0 auto;position: relative;}
+#main>ul{width: 1167px;height: 1600px;}
+#main>ul>li{width: 369px;height: 402px;padding: 10px;float: left;}
+#main>ul>li>.box>img{width: 369px;height: 369px;}
+#main>ul>li>.box>p{text-align: center;color: gray;line-height: 35px}
+#main>#main_id{height: 50px;padding-top:40px;}
+#main>#main_id>a{color: #666;font-size: 14px;}
+#main>#main_id>a:hover{text-decoration: underline;}
+#main>#main_id>i{color: #666;font-size: 14px;}
+#main>.top_Li{ height: 40px;position: absolute;top:100px;left: 200px;font-size: 30px;}
+#main>.top_Li>li{ width: 160px;height: 40px;background: #ddd;float: left;text-align: center;line-height: 30px;margin-left: 20px;padding:0;}
+#main>.top_Li>li>a{font-size: 15px;color: #333;/*line-height: 40px;*/}
+#main>.img_Li{position: absolute;top: 200px;}
+#main>.top_Li>.actli{background: #d5b083;}
+#main>.top_Li>.actli>a{color: #fff;}
+.main_show>#btnList{width: 1167px;height: 30px;position: absolute;left:92px;top:1650px;}
+.main_show>#btnList>.first{width: 83px;line-height: 30px;background: #fafafc;display: block;color: #707070;font-size: 12px;text-align: center;float: left;margin-right:10px; }
+.main_show>#btnList>.last{width: 83px;line-height: 30px;background: #fafafc;display: block;color: #707070;font-size: 12px;text-align: center;float: left;margin-right:10px; }
+.main_show>#btnList>a{width: 30px;line-height: 30px;background: #fafafc;display: block;color: #707070;font-size: 12px;text-align: center;float: left;margin-right:10px;}
+.main_show>#btnList>.code1{background: #2e2e2e;}

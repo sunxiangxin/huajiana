@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	
+</body>
+</html>
+<script src="jquery-1.11.3.js"></script>
+<script>
+
+$.ajax({
+	type:"get",
+	url:"http://suggestion.baidu.com/su",
+	dataType:"json",
+	data:{
+		wd:"手机"
+	},
+	jsonp:"cb",
+	success:function(data){
+		console.log(data)
+	},
+	error:function(e) {
+		console.log(e)
+	}
+})
+
+</script>

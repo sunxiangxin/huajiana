@@ -1,0 +1,130 @@
+[{
+		"id": "01",
+		"src": "../image/list/01.jpg",
+		"title": "西装领长款大衣7231",
+		"minImg": ["../image/list/small/001.jpg", "../image/list/small/002.jpg", "../image/list/small/003.jpg", "../image/list/small/004.jpg"],
+		"color": "藏青",
+		"size": "均码",
+		"price":"￥1888"
+	},
+	{
+		"id": "02",
+		"src": "../image/list/02.jpg",
+		"title": "西装领长款大衣7231",
+		"minImg": ["../image/list/small/005.jpg", "../image/list/small/006.jpg", "../image/list/small/007.jpg"],
+		"color": "黑色",
+		"size": "均码",
+		"price":"￥1999"
+	},
+
+	{
+		"id": "03",
+		"src": "../image/list/03.jpg",
+		"title": "西装领长款大衣7231",
+		"minImg": ["../image/list/small/008.jpg", "../image/list/small/009.jpg", "../image/list/small/0010.jpg"],
+		"color": "黑色",
+		"size": "均码",
+		"price":"￥1888"
+	},
+
+	{
+		"id": "04",
+		"src": "../image/list/04.jpg",
+		"title": "西装领长款大衣7231",
+		"minImg": ["../image/list/04.jpg", "../image/list/04.jpg", "../image/list/04.jpg"],
+		"color": "黑色",
+		"size": "均码",
+		"price":"￥1888"
+	},
+
+	{
+		"id": "05",
+		"src": "../image/list/05.jpg",
+		"title": "西装领长款大衣7231",
+		"minImg": ["../image/list/05.jpg", "../image/list/05.jpg", "../image/list/05.jpg", "../image/list/05.jpg"],
+		"color": "黑色",
+		"size": "均码",
+		"price":"￥1888"
+	},
+	{
+		"id": "06",
+		"src": "../image/list/06.jpg",
+		"title": "西装领长款大衣7231",
+		"minImg": ["../image/list/06.jpg", "../image/list/06.jpg", "../image/list/06.jpg"]
+	},
+
+	{
+		"id": "07",
+		"src": "../image/list/07.jpg",
+		"title": "西装领长款大衣7231",
+		"minImg": ["../image/list/07.jpg", "../image/list/07.jpg", "../image/list/07.jpg"]
+	},
+
+	{
+		"id": "08",
+		"src": "../image/list/08.jpg",
+		"title": "西装领长款大衣7231",
+		"minImg": ["../image/list/08.jpg", "../image/list/08.jpg", "../image/list/08.jpg"]
+	},
+
+	{
+		"id": "09",
+		"src": "../image/list/09.jpg",
+		"title": "西装领长款大衣7231"
+	},
+	{
+		"id": "10",
+		"src": "../image/list/10.jpg",
+		"title": "西装领长款大衣7231"
+	},
+
+	{
+		"id": "11",
+		"src": "../image/list/11.jpg",
+		"title": "西装领长款大衣7231"
+	},
+
+	{
+		"id": "12",
+		"src": "../image/list/12.jpg",
+		"title": "西装领长款大衣7231"
+	},
+
+	{
+		"id": "13",
+		"src": "../image/list/13.jpg",
+		"title": "西装领长款大衣7231"
+	},
+
+	{
+		"id": "14",
+		"src": "../image/list/14.jpg",
+		"title": "西装领长款大衣7231"
+	},
+
+	{
+		"id": "15",
+		"src": "../image/list/15.jpg",
+		"title": "西装领长款大衣7231"
+	},
+
+	{
+		"id": "16",
+		"src": "../image/list/16.jpg",
+		"title": "西装领长款大衣7231"
+	},
+
+	{
+		"id": "17",
+		"src": "../image/list/17.jpg",
+		"title": "西装领长款大衣7231"
+	},
+
+	{
+		"id": "18",
+		"src": "../image/list/18.jpg",
+		"title": "西装领长款大衣7231"
+	}
+
+
+]
